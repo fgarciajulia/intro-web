@@ -6,6 +6,7 @@ En este tutorial se asume que ya se tienen conocimientos básicos sobre:
 - Búsquedas en internet y videos en youtube.<br />
 - Cómo crear archivos<br />
 - Cómo instalar programas en tu computadora.
+- Comenzar a ser autodidacta -> <a target="_blank" href="https://www.youtube.com/watch?v=gfEGbADn3oM">ver video</a>
 
 ## Requerimientos personales
 - Tolerancia a la frustración y persistencia, sobre todo persistencia.

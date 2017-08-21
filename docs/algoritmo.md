@@ -1,7 +1,7 @@
 ## -1 ¿Qué es un algoritmo y que es la programación?
 
 Es un conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución de un tipo de problema.<br />
-[Este video](https://www.youtube.com/watch?v=U3CGMyjzlvM) lo ejemplifica muy bien:
+<a target="_blank" href="https://www.youtube.com/watch?v=U3CGMyjzlvM">Este video</a> lo ejemplifica muy bien:
 
 ## -1.a ¿Qué lenguaje de programación debería aprender primero?
 
@@ -14,7 +14,7 @@ Si la respuesta es páginas web, entonces van a aparecer otras preguntas como:
 
 Existen tres _tipos_ de programadores web. En este video explica la diferencia entre las opciones que pueden optar por aprender.
 
-[Video 1](https://www.youtube.com/watch?v=2RSajNuitrg)
+<a target="_blank" href="https://www.youtube.com/watch?v=2RSajNuitrg">Video 1</a>
 
 - Front-end
 - Back-end
@@ -22,11 +22,11 @@ Existen tres _tipos_ de programadores web. En este video explica la diferencia e
 
 En este otro video también se explican las diferencias, aunque va es más complejo y puede que no entiendan algunas palabras o conceptos:
 
-[Video 2](https://www.youtube.com/watch?v=WViNjzoDonU)
+<a target="_blank" href="https://www.youtube.com/watch?v=WViNjzoDonU">Video 2</a>
 
 Como resumen de todo lo hablado tenemos una lista de videos de **producción propia** que les va a ser útil para terminar de decidir qué es lo que les gustaría hacer.
 
-[Lista de video de Programá tu futuro](https://www.youtube.com/watch?v=iK4lGS52NL4&index=2&list=PLxTPShsWMHPcnZa_QDZvDljOgg_p1S13X)
+<a target="_blank" href="https://www.youtube.com/watch?v=iK4lGS52NL4&index=2&list=PLxTPShsWMHPcnZa_QDZvDljOgg_p1S13X">Lista de video de Programá tu futuro</a>
 
 ### -1.a.3 Porqué recomendamos tener una idea de front-end antes de arrancar con back-end.
 
