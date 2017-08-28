@@ -31,7 +31,7 @@ Como resumen de todo lo hablado vamos a darles el listado de links útiles:
 Una vez que ya tengan una noción de donde están parados y para donde quieren ir, entonces miren el PDF adjunto 11 pasos para crear un sitio web/<br />
 El objetivo de este PDF es orientarlos en la creación de un proyecto, y lo principal es que la temática que elijan tiene que ser motivante para ustedes.
 
-<a target="_blank" href="https://fgarciajulia.github.io/intro-web/primeros-pasos/11-pasos-para-crear-un-sitio-web.pdf">Descargar PDF</a>
+<a target="_blank" href="https://fgarciajulia.github.io/intro-web/11-pasos-para-crear-un-sitio-web.pdf">Descargar PDF</a>
 
 <div class="Grid">
     <a href="https://fgarciajulia.github.io/intro-web/primeros-pasos" class="my-btn anterior">Anterior</a>
